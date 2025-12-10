@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Api\\Controllers\\DoctorController.cs",
               "ToolTip": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "Api\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T21:58:05.405Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "TestDeModulos\\PacientesControllerTests.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:43:24.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T21:43:24.726Z"
             }
           ]
         },
