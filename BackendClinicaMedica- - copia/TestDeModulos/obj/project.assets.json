@@ -4747,11 +4747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\TestDeModulos\\TestDeModulos.csproj",
+      "projectUniqueName": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\TestDeModulos\\TestDeModulos.csproj",
       "projectName": "TestDeModulos",
-      "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\TestDeModulos\\TestDeModulos.csproj",
+      "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\TestDeModulos\\TestDeModulos.csproj",
       "packagesPath": "C:\\Users\\guile\\.nuget\\packages\\",
-      "outputPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\TestDeModulos\\obj\\",
+      "outputPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\TestDeModulos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4772,14 +4772,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\AccesoDatos\\AccesoDatos.csproj"
             },
-            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\Api\\Api.csproj": {
-              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\Api\\Api.csproj"
+            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Api.csproj": {
+              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Api.csproj"
             },
-            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\Dominio\\Dominio.csproj"
+            "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Dominio\\Dominio.csproj"
             }
           }
         }

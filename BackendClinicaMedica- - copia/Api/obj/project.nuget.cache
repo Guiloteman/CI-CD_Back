@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4zOlgrk8Xk=",
+  "dgSpecHash": "qfQNlxoBtEc=",
   "success": true,
-  "projectFilePath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\Api\\Api.csproj",
+  "projectFilePath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guile\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\guile\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -53,7 +53,7 @@ namespace Api.Controllers
                 // Validar que la matrícula no exista en Doctor
                 var existeMatricula = await uow.Repositorios.DoctorRepositorio.ExisteMatriculaAsync(dto.Matricula);
                 if (existeMatricula)
-                    return BadRequest(new { mensaje = "Ya existe un médico con esa matrícula." });
+                    return BadRequest(new { mensaje = "Ya existe un médico con esa MATRICULA." });
 
                 // Crear Persona
                 var persona = new Persona
