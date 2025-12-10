@@ -1,0 +1,16 @@
+2025-12-10T18:29:11.2513332+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-12-10T18:29:11.2689613+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-12-10T18:29:11.2701362+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-12-10T18:29:11.2701432+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 18:29:11.225
+2025-12-10T18:29:11.2719454+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 22764
+2025-12-10T18:29:11.2721265+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.22
+2025-12-10T18:29:11.2721397+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.22\System.Private.CoreLib.dll
+2025-12-10T18:29:11.2721546+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-12-10T18:29:11.2721578+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\TestDeModulos\bin\Debug\net8.0\TestDeModulos.dll
+2025-12-10T18:29:11.2723774+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\TestDeModulos\bin\Debug\net8.0\Log --results-directory C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\TestResults --client-port 58335'
+2025-12-10T18:29:11.2736282+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-12-10T18:29:11.2976769+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-12-10T18:29:11.3024783+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\TestDeModulos\bin\Debug\net8.0\TestDeModulos.testconfig.json' not found.
+2025-12-10T18:29:11.3044448+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-12-10T18:29:11.5231848+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-12-10T18:29:11.7678796+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Probar paralelización habilitada para C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\TestDeModulos\bin\Debug\net8.0\TestDeModulos.dll (Trabajos: 4, Ámbito: MethodLevel)

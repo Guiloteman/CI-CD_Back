@@ -1,0 +1,100 @@
+C:\emi\Software\Triage\Triage\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\emi\Software\Triage\Triage\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\emi\Software\Triage\Triage\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\emi\Software\Triage\Triage\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\emi\Software\BackendClinicaMedica-\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\emi\Software\BackendClinicaMedica-\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\emi\Software\BackendClinicaMedica-\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\GIT\BackendClinicaMedica-\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\emi\Software\BackendClinicaMedica-\Dominio\bin\Debug\net8.0\AccesoDatos.dll
+C:\emi\Software\BackendClinicaMedica-\Dominio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\emi\Software\BackendClinicaMedica-\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.dll
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\emi\Software\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\guile\Downloads\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\Dominio\obj\Debug\net8.0\ref\Dominio.dll
