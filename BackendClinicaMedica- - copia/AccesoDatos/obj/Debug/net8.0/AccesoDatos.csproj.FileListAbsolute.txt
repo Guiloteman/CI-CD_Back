@@ -93,3 +93,16 @@ C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia
 C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
 C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
 C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\inetpub\wwwroot\BackendClinicaMedica- - copia11\CI-CD_Back\BackendClinicaMedica- - copia\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

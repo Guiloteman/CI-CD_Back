@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\BackendClinicaMedica- - copia\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2BA681-23E6-4443-8786-43AFD2D2D384}|Api\\Api.csproj|c:\\inetpub\\wwwroot\\backendclinicamedica- - copia11\\ci-cd_back\\backendclinicamedica- - copia\\api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2BA681-23E6-4443-8786-43AFD2D2D384}|Api\\Api.csproj|solutionrelative:api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B83259-DF7A-41CD-8DD8-7E485DE5F9BA}|TestDeModulos\\TestDeModulos.csproj|c:\\inetpub\\wwwroot\\backendclinicamedica- - copia11\\ci-cd_back\\backendclinicamedica- - copia\\testdemodulos\\pacientescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B83259-DF7A-41CD-8DD8-7E485DE5F9BA}|TestDeModulos\\TestDeModulos.csproj|solutionrelative:testdemodulos\\pacientescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 281,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\Api\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:58:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacientesControllerTests.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\TestDeModulos\\PacientesControllerTests.cs",
+              "RelativeDocumentMoniker": "TestDeModulos\\PacientesControllerTests.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\BackendClinicaMedica- - copia11\\CI-CD_Back\\BackendClinicaMedica- - copia\\TestDeModulos\\PacientesControllerTests.cs",
+              "RelativeToolTip": "TestDeModulos\\PacientesControllerTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:43:24.726Z",
+              "EditorCaption": ""
             }
           ]
         },
